@@ -10,21 +10,22 @@ The objective is to build a deep learning model that can recognize and classify 
 
 The model uses the following architecture:
 
-Conv2D: 32 filters, 3x3 kernel, ReLU activation
+-> Conv2D: 32 filters, 3x3 kernel, ReLU activation
 
-MaxPooling2D
+-> MaxPooling2D
 
-Conv2D: 64 filters, 3x3 kernel, ReLU activation
+-> Conv2D: 64 filters, 3x3 kernel, ReLU activation
 
-MaxPooling2D
+-> MaxPooling2D
 
-Conv2D: 128 filters, 3x3 kernel, ReLU activation
+-> Conv2D: 128 filters, 3x3 kernel, ReLU activation
 
-MaxPooling2D
+-> MaxPooling2D
 
-Flatten
+-> Flatten
 
-Dense: 10 output classes with softmax activation
+-> Dense: 10 output classes with softmax activation
+
 
 **🧪 How to Run
 Prerequisites**
