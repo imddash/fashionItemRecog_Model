@@ -40,15 +40,16 @@ Prerequisites**
 
 -> scikit-learn
 
-Installation:
+
+**Installation:**
 
 pip install tensorflow numpy matplotlib scikit-learn
 
-Run the Script:
+**Run the Script:**
 
 python fashion_mnist_cnn.py
 
 
-📜 License
+**📜 License**
 
 This project is open-source and available under the MIT License.
